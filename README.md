@@ -1,5 +1,5 @@
 ## Hi Devs, I'm Jailson
-<font size="1" face="Helvetica" > my social networks:</font> <br />
+my social networks:<br />
 
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/jailson-souza-558632246" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ##
-  
+ Technological tools that develop programs and applications:<br />
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=JailsonSouza&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
@@ -26,8 +26,8 @@
   
   ##
  
-
-
+my commits: <br />
+##
   ![Snake animation](https://github.com/JailsonSouza/JailsonSouza/blob/output/github-contribution-grid-snake.svg)
  
 </div>

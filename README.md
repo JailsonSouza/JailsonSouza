@@ -10,8 +10,6 @@
   <img align="center" alt="Jailson-Python" height="70" width="80" src="https://github.com/jaredseefried/Development-Icons/blob/master/Python/python.png">&nbsp &nbsp &nbsp
   <img align="center" alt="Jailson-Djangoht="70" width="80" src="https://github.com/jaredseefried/Development-Icons/blob/master/django/django.png">&nbsp &nbsp &nbsp
   <img align="center" alt="Jailson-C++" height="70" width="80" src="https://github.com/jaredseefried/Development-Icons/blob/master/C%2B%2B/C%2B%2B.png">&nbsp &nbsp &nbsp
-  <img align="center" alt="Jailson-Dockerht="70" width="80" src="https://github.com/jaredseefried/Development-Icons/blob/master/docker/docker.png">&nbsp &nbsp &nbsp
-  
 </div>
 <br
 <div align="center">

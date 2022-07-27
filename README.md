@@ -1,6 +1,7 @@
 ## Hi Devs, I'm Jailson
 &bull; Front-end developer <br>
-&bull; Back-end developer 
+&bull; Back-end developer
+
 <div style="display: inline_block">
    <img align="center" alt="Jailson-HTML" height="70" width="80" src="https://github.com/jaredseefried/Development-Icons/blob/master/HTML/html5.png">&nbsp &nbsp &nbsp
   <img align="center" alt="Jailson-CSS" height="70" width="80" src="https://github.com/jaredseefried/Development-Icons/blob/master/CSS/css3.png">&nbsp &nbsp &nbsp
@@ -13,8 +14,8 @@
 </div>
 <br
 <div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=JailsonSouza&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <a href="https://beacons.ai/rafaballerini">
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=JailsonSOuza&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JailsonSOuza&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 <br>

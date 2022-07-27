@@ -1,4 +1,6 @@
 ## Hi Devs, I'm Jailson
+&bull; Back-end developer
+
 My social networks:<br />
 
 <div> 

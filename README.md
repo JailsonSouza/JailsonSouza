@@ -15,8 +15,8 @@
 <br
 <div align="center">
   <a href="https://beacons.ai/rafaballerini">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=JailsonSOuza&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JailsonSOuza&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=JailsonSouza&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JailsonSouza&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 <br>
 
@@ -29,4 +29,4 @@
   <a href="https://www.linkedin.com/in/jailson-souza-558632246" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/JailsonSouza/JailsonSouza/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/JailsonSouza/JailsonSouza/blob/output/github-contribution-grid-snake.svg

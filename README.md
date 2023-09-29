@@ -1,5 +1,5 @@
 <h1 align="center">Hello Devs, much pleasure, my name's Jailson Souza<a href="https://www.linkedin.com/in/jailson-souza-558632246" target="_blank"><img align="right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></h1>
-<h3 align="center">Webmaster and Web Designer</a> </h3> <br>
+<h2 align="center">Webmaster and Web Designer</a> </h2> <br>
 &bull; MY HARD SKILLS <br> <br>
 
 <div style="display: inline_block">

@@ -7,7 +7,6 @@
   <img align="center" alt="Jailson-HTML" height="70" width="80" src="https://github.com/jaredseefried/Development-Icons/blob/master/HTML/html5.png">&nbsp &nbsp &nbsp
   <img align="center" alt="Jailson-CSS" height="70" width="80" src="https://github.com/jaredseefried/Development-Icons/blob/master/CSS/css3.png">&nbsp &nbsp &nbsp
   <img align="center" alt="Jailson-Js" height="70" width="80" src="https://github.com/jaredseefried/Development-Icons/blob/master/javascript/javascript.png">&nbsp &nbsp &nbsp
-  <img align="center" alt="Jailson-C++" height="70" width="80" src="https://github.com/jaredseefried/Development-Icons/blob/master/PHP/php.png">&nbsp &nbsp &nbsp
   <img align="center" alt="Jailson-C++" height="70" width="80" src="https://github.com/jaredseefried/Development-Icons/blob/master/MySQL/mysql-blue.png">&nbsp &nbsp &nbsp
   <img align="center" alt="Jailson-Python" height="70" width="80" src="https://github.com/jaredseefried/Development-Icons/blob/master/Python/python.png">&nbsp &nbsp &nbsp
   <img align="center" alt="Jailson-Djangoht="70" width="80" src="https://github.com/jaredseefried/Development-Icons/blob/master/Java/java.png">&nbsp &nbsp &nbsp

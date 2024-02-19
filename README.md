@@ -22,7 +22,7 @@
 <table style="border-collapse: separate; border-spacing: 0 10px;">
   <tr>
     <td align="center" style="border: none;">
-      <a href="#" title="defina o titulo do link">
+      <a href="https://github.com/JailsonSouza/oracle-alura-challenge01-decodificador" title="Decodificador de Mensagens Online">
         <img src="https://github.com/JailsonSouza/oracle-alura-challenge01-decodificador/blob/main/assets/images/projeto-web-decodificador-de-palavras.png" width="300" height="200" alt="Foto do Steve Jobs"/><br>
         <sub>
           <h3>Decodificador de Mensagens Online</h3>
@@ -64,8 +64,8 @@
       </a>
     </td>
     <td align="center" style="border: none;">
-      <a href="#" title="defina o titulo do link">
-        <img src="https://github.com/JailsonSouza/bootcamp-dio-formacao-html-web-developer/blob/main/Desafio%20de%20Projeto%2302%20-%20Criando%20seu%20Primeiro%20Site%20Completo%20com%20HTML/assets/images/projeto%20site%20clinica%20veterinaria%20toypet.jpeg)https://github.com/JailsonSouza/bootcamp-dio-formacao-html-web-developer/blob/main/Desafio%20de%20Projeto%2302%20-%20Criando%20seu%20Primeiro%20Site%20Completo%20com%20HTML/assets/images/projeto%20site%20clinica%20veterinaria%20toypet.jpeg" width="300" height="200" alt="Projeto Web - Site Clinica Veterinaria TOYPET"/><br>
+      <a href="https://github.com/JailsonSouza/bootcamp-dio-formacao-html-web-developer/tree/main/Desafio%20de%20Projeto%2302%20-%20Criando%20seu%20Primeiro%20Site%20Completo%20com%20HTML" title="Site Clinica Veterinaria TOYPET">
+        <img src="https://github.com/JailsonSouza/bootcamp-dio-formacao-html-web-developer/blob/main/Desafio%20de%20Projeto%2302%20-%20Criando%20seu%20Primeiro%20Site%20Completo%20com%20HTML/assets/images/projeto%20site%20clinica%20veterinaria%20toypet.jpeg" width="300" height="200" alt="Projeto Web - Site Clinica Veterinaria TOYPET"/><br>
         <sub>
           <h3>Site Clinica Veterinaria TOYPET</h3>
         </sub>

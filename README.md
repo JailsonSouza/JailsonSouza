@@ -1,4 +1,4 @@
-<h1 align="center">Hey Network, I'm Webmaster and Web Designer<a href="https://www.linkedin.com/in/jailson-souza-558632246" target="_blank"><img align="right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></h1>
+<h1>Hey Network, I'm Webmaster and Web Designer<a href="https://www.linkedin.com/in/jailson-souza-558632246" target="_blank"><img align="right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></h1>
 &bull; MY HARD SKILLS <br> <br>
 
 <div class="left_side">
@@ -18,3 +18,61 @@
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=JailsonSouza&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JailsonSouza&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
+## MY PROJECTS 
+
+Abaixo, confira alguns dos meus projetos:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#" title="defina o titulo do link">
+        <img src="https://github.com/JailsonSouza/oracle-alura-challenge01-decodificador/blob/main/assets/images/projeto-web-decodificador-de-palavras.png" width="300" height="200" alt="Foto do Steve Jobs"/><br>
+        <sub>
+          <h3>Decodificador de Mensagens Online</h2>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#" title="defina o titulo do link">
+        <img src="https://github.com/JailsonSouza/oracle-alura-challenge01-decodificador/blob/main/assets/images/projeto-web-decodificador-de-palavras.png" width="300" height="200" alt="Foto do Steve Jobs"/><br>
+        <sub>
+          <h3>Decodificador de Mensagens Online</h2>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#" title="defina o titulo do link">
+        <img src="https://github.com/JailsonSouza/oracle-alura-challenge01-decodificador/blob/main/assets/images/projeto-web-decodificador-de-palavras.png" width="300" height="200" alt="Foto do Steve Jobs"/><br>
+        <sub>
+          <h3>Decodificador de Mensagens Online</h2>
+        </sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="#" title="defina o titulo do link">
+        <img src="https://github.com/JailsonSouza/oracle-alura-challenge01-decodificador/blob/main/assets/images/projeto-web-decodificador-de-palavras.png" width="300" height="200" alt="Foto do Steve Jobs"/><br>
+        <sub>
+          <h3>Decodificador de Mensagens Online</h2>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#" title="defina o titulo do link">
+        <img src="https://github.com/JailsonSouza/oracle-alura-challenge01-decodificador/blob/main/assets/images/projeto-web-decodificador-de-palavras.png" width="300" height="200" alt="Foto do Steve Jobs"/><br>
+        <sub>
+          <h3>Decodificador de Mensagens Online</h2>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#" title="defina o titulo do link">
+        <img src="https://github.com/JailsonSouza/oracle-alura-challenge01-decodificador/blob/main/assets/images/projeto-web-decodificador-de-palavras.png" width="300" height="200" alt="Foto do Steve Jobs"/><br>
+        <sub>
+          <h3>Decodificador de Mensagens Online</h2>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>

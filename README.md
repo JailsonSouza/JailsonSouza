@@ -26,7 +26,7 @@
         <br>
         <img src="https://github.com/JailsonSouza/oracle-alura-challenge01-decodificador/blob/main/assets/images/projeto-web-decodificador-de-palavras.png" width="300" height="200" alt="Foto do Steve Jobs"/><br>
         <sub>
-          <h3>Decodificador de Mensagens</h3>
+          <h3><a href="https://github.com/JailsonSouza/oracle-alura-challenge01-decodificador" title="Decodificador de Mensagens Online" style="color: white; text-decoration: none;">Decodificador de Mensagens</a></h3>
         </sub>
         <br>
       </a>

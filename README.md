@@ -79,4 +79,34 @@
       </a>
     </td>
   </tr>
+
+
+
+  <tr>
+    <td align="center">
+      <a href="https://github.com/JailsonSouza/bootcamp-dio-potencia-tech-ifood-desenvolvimento-de-jogos/tree/main/Desafio%20de%20Projeto%2302-%20Construindo%20o%20seu%20Portf%C3%B3lio%20de%20Jogos%20com%20JavaScript/Desafio%20de%20Projeto%2303-Construindo%20um%20Simulador%20de%20Piano%20com%20JavaScript%20e%20CSS" title="Virtual Piano Online"><br>
+        <img src="https://github.com/JailsonSouza/bootcamp-dio-potencia-tech-ifood-desenvolvimento-de-jogos/blob/main/Desafio%20de%20Projeto%2302-%20Construindo%20o%20seu%20Portf%C3%B3lio%20de%20Jogos%20com%20JavaScript/Desafio%20de%20Projeto%2303-Construindo%20um%20Simulador%20de%20Piano%20com%20JavaScript%20e%20CSS/assets/imgs/virtual%20piano%20online.PNG" width="300" height="200" alt="Virtual Piano Online"/><br>
+        <sub>
+          <h3>Virtual Piano Online</h3>
+        </sub>
+        <br>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#" title=""><br>
+        <sub>
+          <h3></h3>
+        </sub>
+        <br>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#" title=""><br>
+        <sub>
+          <h3></h3>
+        </sub>
+        <br>
+      </a>
+    </td>
+  </tr>
 </table>

@@ -1,4 +1,4 @@
-<h1>Hey Network, I'm Webmaster and Web Designer<a href="https://www.linkedin.com/in/jailson-souza-558632246" target="_blank"><img align="right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></h1>
+<h1>Hey Guys, I'm a Webmaster<a href="https://www.linkedin.com/in/jailson-souza-558632246" target="_blank"><img align="right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></h1>
 &bull; MY HARD SKILLS <br> <br>
 
 <div class="left_side">
